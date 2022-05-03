@@ -56,7 +56,6 @@ export default {
     }
     main {
         width: 100vw;
-        /* 设置min-height: 这样子页面被容器撑开有滚动条的话，容器的高度也会随之到最底部 */
         min-height: 100vh; 
         display: flex;
         justify-content: center;
